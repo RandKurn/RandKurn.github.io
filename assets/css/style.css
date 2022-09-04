@@ -51,6 +51,7 @@ body {
     color: #fff;
     font-family: var(--font);
     text-align: center;
+    grayscale: 100%;
     margin-bottom: 20px;
     padding: 17px;
     text-decoration: none;
@@ -64,7 +65,6 @@ body {
     background-color: #fff;
     color: rgb(66, 110, 255);
     border: solid rgb(66, 110, 255) 2px;
-    grayscale: 100%;
 }
 
 .footer {
