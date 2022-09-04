@@ -63,7 +63,7 @@ body {
 .link:hover {
     background-color: #fff;
     color: rgb(10, 10, 10);
-    border: solid rgb(66, 110, 255) 2px;
+    border: solid rgb(10, 10, 10) 2px;
 }
 
 .footer {
