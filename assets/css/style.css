@@ -6,7 +6,16 @@
 }
 
 body {
-    background-color: rgb(243, 242, 242);
+    background-color: rgb(10, 10, 10);
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  opacity: 0.5;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 #userPhoto {
