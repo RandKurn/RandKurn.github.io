@@ -51,7 +51,7 @@ body {
     color: #fff;
     font-family: var(--font);
     text-align: center;
-    grayscale: 100%;
+    filter: grayscale(100%);
     margin-bottom: 20px;
     padding: 17px;
     text-decoration: none;
